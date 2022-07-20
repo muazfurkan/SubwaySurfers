@@ -1,0 +1,481 @@
+﻿{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1655231319890731, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231319892496, "dur": 14739, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231319907575, "dur": 78007, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231319985613, "dur": 292216, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231320277830, "dur": 7937955, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231328215830, "dur": 10469, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432115780, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432116129, "dur": 7799, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432123930, "dur": 31969, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432155901, "dur": 323392, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432479294, "dur": 423214, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231432902510, "dur": 12669, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231522118314, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231522118355, "dur": 11211, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231522129568, "dur": 56872, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231522186442, "dur": 9640, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231526959679, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231526959705, "dur": 12476, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231526972183, "dur": 2374805, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231529346990, "dur": 8291, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231677062651, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231677062673, "dur": 10898, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231677073574, "dur": 80602, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231677154177, "dur": 9626, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231680790425, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231680790436, "dur": 6109, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231680796548, "dur": 31821, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231680828370, "dur": 271784, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231681100157, "dur": 314288, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231681414446, "dur": 27000, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231681442019, "dur": 65, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1655231680937272, "dur": 132342, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231680938514, "dur": 49364, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231681045058, "dur": 6110, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231681051172, "dur": 18425, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231681052059, "dur": 14765, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231681076023, "dur": 1676, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1655231681074990, "dur": 2813, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231681442152, "dur": 284, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1655231681132722, "dur":2095, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681134824, "dur":51, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1655231681134887, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1655231681134903, "dur":281, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1655231681135239, "dur":766, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681136005, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372661, "dur":152, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372813, "dur":29, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372842, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372845, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372852, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372854, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372863, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372865, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372872, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372886, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681372930, "dur":2218, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1655231681136131, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681136131, "dur":4345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681140494, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1655231681140569, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681142989, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1655231681145520, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1655231681145560, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681145566, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1655231681148616, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1655231681148654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681148660, "dur":1745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1655231681150439, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1655231681150479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681150485, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1655231681151794, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1655231681151826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681151831, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1655231681153301, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681153340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681153344, "dur":118658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681272054, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681272150, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681272155, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681273175, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681273207, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681273212, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681276518, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681276553, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681276573, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681278959, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681278994, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681278999, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681280948, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681280982, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681280986, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681283457, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681283497, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681283518, "dur":2994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681286546, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681286582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681286586, "dur":2459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681289081, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681289115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681289120, "dur":1228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681290416, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681290605, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681290609, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681292447, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681292510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681292528, "dur":1815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681294376, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681294621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681294626, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681296184, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681296218, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681296223, "dur":2218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681298477, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681298513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681298520, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681300263, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681300296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681300302, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681301222, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681301258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681301263, "dur":4363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681305661, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681305697, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681305702, "dur":5104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1655231681310840, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681310873, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681310878, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681312840, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1655231681312982, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681312996, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1655231681314008, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1655231681314136, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681314149, "dur":1108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1655231681315304, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681315341, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681315347, "dur":2627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681318019, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level1.resS" }}
+,{ "pid":12345, "tid":1, "ts":1655231681318059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681318065, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level1.resS" }}
+,{ "pid":12345, "tid":1, "ts":1655231681319416, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1655231681319465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681319475, "dur":8547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1655231681328058, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681328101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681328108, "dur":1439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1655231681329582, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1655231681329639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1655231681329645, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1655231681330634, "dur":42022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681135969, "dur":120, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681136089, "dur":4411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681140500, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1655231681140571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681143533, "dur":2001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1655231681145568, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1655231681145603, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681145609, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1655231681148656, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1655231681148688, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681148694, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1655231681150550, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1655231681150584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681150589, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1655231681151809, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681151849, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681152334, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681154090, "dur":583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers.exe" }}
+,{ "pid":12345, "tid":2, "ts":1655231681154676, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681154680, "dur":6620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers.exe" }}
+,{ "pid":12345, "tid":2, "ts":1655231681161347, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1655231681161394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681161642, "dur":69341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1655231681231027, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681231073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681231080, "dur":2197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681233308, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681233340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681233345, "dur":7080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681240471, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681240524, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681240529, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681245058, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681245105, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681245110, "dur":4853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681250008, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681250056, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681250061, "dur":4827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681254930, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681254966, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681254971, "dur":6192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681261194, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681261228, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681261233, "dur":5596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681266861, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681266896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681266901, "dur":5874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681272806, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681272917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681272923, "dur":3442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681276398, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681276432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681276437, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681277492, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681277523, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681277528, "dur":3383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681280944, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681280977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681280983, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681283400, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681283435, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681283440, "dur":2799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681286273, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681286307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681286313, "dur":1214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681287561, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681287605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681287623, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681289394, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681289447, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681289452, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681290881, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681290914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681290919, "dur":2809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681293759, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681293793, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681293798, "dur":1192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681295021, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681295378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681295383, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681297119, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681297152, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681297158, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681298661, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681298695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681298701, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681300688, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681300724, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681300728, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681302591, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681302625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681302630, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681304177, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681304238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681304249, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681305430, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681305465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681305472, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681307019, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681307054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681307060, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1655231681308646, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1655231681308680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1655231681308687, "dur":63877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1655231681372597, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1655231681372598, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681135829, "dur":232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681136083, "dur":4368, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681140494, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1655231681140506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681141344, "dur":414, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1655231681141760, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1655231681141802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681141938, "dur":3494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1655231681145434, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1655231681145472, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681145551, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1655231681148577, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1655231681148609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681148615, "dur":1664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1655231681150309, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681150347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681150394, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681151777, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681151812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681151817, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681153421, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1655231681153460, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681153463, "dur":29321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1655231681182818, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681182858, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681183082, "dur":12021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681195133, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681195164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681195230, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681196193, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681196243, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681196247, "dur":36509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681232833, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681232883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681232921, "dur":6859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681239813, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681239860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681239867, "dur":919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681240819, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681240851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681240856, "dur":4430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681245322, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681245357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681245362, "dur":5024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681250419, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681250450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681250455, "dur":10368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681260888, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681260923, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681260930, "dur":4416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681265394, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681265458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681265464, "dur":1199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681266716, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681266755, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681266760, "dur":5603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681272395, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681272429, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681272434, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681274571, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681274602, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681274606, "dur":2123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681276760, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681276796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681276801, "dur":2414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681279248, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681279282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681279287, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681281239, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681281353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681281358, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681283606, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681283640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681283645, "dur":2833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681286511, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681286546, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681286550, "dur":2643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681289238, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681289356, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681289361, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681292031, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681292065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681292070, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681293982, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681294015, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681294019, "dur":1612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681295663, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681295696, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681295700, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681297300, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681297345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681297350, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681299040, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681299084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681299089, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681300971, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681301003, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681301007, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681302936, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681302969, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681302973, "dur":4191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681307198, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681307367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681307389, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1655231681308873, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681308906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681308911, "dur":6230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681315185, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681315247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681315254, "dur":11129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681326429, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681326473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681326480, "dur":1511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1655231681328031, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1655231681328067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681328077, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1655231681329597, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681329714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1655231681329719, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1655231681330651, "dur":41982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681136104, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681136104, "dur":4375, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681140496, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681140562, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681143582, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681145621, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681145654, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681146538, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681147717, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1655231681147751, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681147793, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1655231681148863, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681148897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681149769, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1655231681151371, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1655231681151402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681151408, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1655231681152831, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681152870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681153268, "dur":80791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681234090, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681234126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681234131, "dur":6142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681240319, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681240355, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681240360, "dur":4424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681244822, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681244859, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681244866, "dur":4645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681249549, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681249585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681249592, "dur":5291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681254922, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681254963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681254969, "dur":6354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681261355, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681261704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681261709, "dur":4980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681266721, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681266761, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681266765, "dur":5777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681272576, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681272614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681272619, "dur":1463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681274111, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681274143, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681274151, "dur":1758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681275939, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681275971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681275977, "dur":1155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681277164, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681277197, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681277202, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681279766, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681279816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681279822, "dur":2174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681282028, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681282058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681282063, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681284257, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681284296, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681284301, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681286683, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681286713, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681286718, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681289052, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681289090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681289095, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681290420, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681290459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681290482, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681292221, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681292255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681292260, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681294032, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681294066, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681294071, "dur":1732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681295834, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681295867, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681295872, "dur":4565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681300480, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681300529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681300534, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681302200, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681302241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681302247, "dur":3326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681305607, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681305642, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681305647, "dur":1530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1655231681307211, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1655231681307249, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681307296, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1655231681308741, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1655231681308775, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1655231681308780, "dur":21110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/muazf/Desktop/Subway Surfers/Subway Surfers_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1655231681329936, "dur":42725, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1655231681377071, "dur":1769, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1655231681442501, "dur": 1000, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1655231681442005, "dur": 1560, "ph": "X", "name": "Write chrome-trace events", "args": {} },

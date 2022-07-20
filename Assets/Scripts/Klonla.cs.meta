@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fdc4327c2d71cc4cb04802bb1ee429d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - altin: {fileID: 8879806029686273511, guid: c52e21820c3c65044b1f379a43f99bc7, type: 3}
+  - miknatis: {fileID: 919132149155446097, guid: 524708d60607ba04daa5fbc372956ce1, type: 3}
+  - karakter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
